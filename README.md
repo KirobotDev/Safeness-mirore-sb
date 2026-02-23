@@ -2,7 +2,7 @@
 
 > A Discord selfbot library — **Mirore Edition** — based on discord.js v13.
 
-[![Node.js](https://img.shields.io/badge/node-%3E=16.6.0-brightgreen)](https://nodejs.org)
+[![Node.js](https://img.shields.io/badge/node-%3E=22.12.0-brightgreen)](https://nodejs.org)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](./package.json)
 [![License](https://img.shields.io/badge/license-UNLICENSED-red)](./package.json)
 
@@ -73,3 +73,9 @@ src/
 ## Credits
 
 Modified and maintained as **safeness-mirore-sb** by kirobotdev.
+
+## Stats
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=KirobotDev/Safeness-mirore-sb&type=date&legend=top-left)](https://www.star-history.com/#KirobotDev/Safeness-mirore-sb&type=date&legend=top-left)
