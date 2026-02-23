@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "module": "CommonJS",
+        "lib": [
+            "ESNext",
+            "DOM"
+        ],
+        "allowJs": true,
+        "checkJs": false,
+        "noEmit": true,
+        "skipLibCheck": true,
+        "strict": false,
+        "esModuleInterop": true,
+        "types": [
+            "node"
+        ]
+    },
+    "include": [
+        "src/**/*",
+        "typings/**/*"
+    ]
+}
