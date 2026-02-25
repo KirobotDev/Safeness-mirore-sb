@@ -1,6 +1,6 @@
 # safeness-mirore-sb
 
-> A Discord selfbot library — **Mirore Edition** — based on discord.js v13.
+> A Discord selfbot library — **Mirore Edition** — based on discord.js-selfbot-v13.
 
 [![Node.js](https://img.shields.io/badge/node-%3E=22.12.0-brightgreen)](https://nodejs.org)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](./package.json)
